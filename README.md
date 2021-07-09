@@ -1,2 +1,3 @@
 # birthdayreminder-repo
-reminds people of their birthday
+
+this app reminds people of their birthday
